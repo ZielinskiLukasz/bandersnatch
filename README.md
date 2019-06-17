@@ -5,6 +5,7 @@
 ## Setup
 
  * Clone or download this repo
+ * Run bandersnatch.html in your browser
  * Download full version (5hrs 10 mins long) with all endings (for example: Black.Mirror.Bandersnatch.2018.INTERNAL.1080p.WEBRip.X264-DEFLATE.mkv) 
 
 
